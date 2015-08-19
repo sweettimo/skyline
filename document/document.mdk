@@ -1,0 +1,17 @@
+Title         : Comp 361:      Assignment 1
+Heading Base  : 2
+Author        : Tim Sweet (300036576)
+
+[TITLE]
+
+# Introduction 
+
+In this task, we were instructed to design and implement a program, using the divide and conquer strategy, that would compute the skyline for a given set of buildings. Buildings were our input data and they were represented as a sequence of triples made up of three floating point numbers which respectively represented the leftmost point, the rightmost point and the height of each of the rectangular buildings. Taking this input data, we needed to design an algorithm that would produce a skyline.
+
+* Read the [reference manual].
+* Explore the upper-right toolbox menu to discover how Markdown works. 
+* `Alt-Q` reformats the current paragraph.
+
+Enjoy!
+
+[reference manual]: http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html  "Madoko refrence manual"
