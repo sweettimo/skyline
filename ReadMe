@@ -1,4 +1,4 @@
-A simple C# program that uses the divide and conquer strategy to compute the Manhatten Skyline algorithm for a given set of buildings.
+A simple Java program that uses the divide and conquer strategy to compute the Manhatten Skyline algorithm for a given set of buildings.
 -The implementation.
 -Proof of correctness.
 -Complexity analysis and discussion.
