@@ -1,3 +1,5 @@
+// This rectangle object represents the bounding box of the 
+// tower generated based on pseudo-random input.
 
 public class Rectangle {
 
@@ -12,17 +14,14 @@ public class Rectangle {
 	}
 
 	public double getHeight() {
-		// TODO Auto-generated method stub
 		return this.height;
 	}
 
 	public double getLeftX() {
-		// TODO Auto-generated method stub
 		return this.leftX;
 	}
 
 	public double getRightX() {
-		// TODO Auto-generated method stub
 		return this.rightX;
 	}
 
